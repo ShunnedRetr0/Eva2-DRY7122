@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos con credenciales
+config.py
+secrets.json
+api_keys.txt
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
